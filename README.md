@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : RAJARAMAN V
-# Roll no : 212223110038
-# Date of experiment : 10.03.25
+## Name : RAJARAMAN V
+## Roll no : 212223110038
+## Date of experiment : 10.03.25
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
